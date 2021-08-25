@@ -1,7 +1,11 @@
 function Home() {
-	return <div>
+	return (<div>
 		<h1>Home</h1>
-			</div>
+		
+		<Link href="/sobre">
+			<a>Acessar Sobre</a>
+		</Link>
+			</div>)
 }
 
 export default Home
