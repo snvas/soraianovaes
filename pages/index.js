@@ -19,7 +19,7 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          Consultoria em Tecnologias Educacionais e{' '}
+          Consultora em Tecnologias Educacionais e{' '}
           <code className={styles.code}><a href="https://github.com/snvas">aprendiz de programação</a></code>
         </p>
 
