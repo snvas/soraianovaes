@@ -31,17 +31,18 @@ export default function Home() {
 
           <a href="https://cursos.empreendelab.com.br/cursos-udemy/" className={styles.card}>
             <h2>Cursos &rarr;</h2>
-            <p>Cursos online para professores e profissionais de comunicação, marketing e design.</p>
+            <p>Cursos online para professores, profissionais de comunicação, marketing e design.</p>
+          </a>
+		  <a href="https://desafiodocodigo.com.br" className={styles.card}>
+            <h2>Desafio do Código &rarr;</h2>
+            <p>Desafio online com um conjunto de missões que guiam você por ferramentas digitais para aprender programação, matemática e inglês.</p>
           </a>
 		  <a href="https://meugurudigital.com.br" className={styles.card}>
             <h2>Guru Digital &rarr;</h2>
             <p>Serviço via WhatsApp que ajuda a galera que precisa de uma mãozinha no mundo digital para sua carreira ou negócio.</p>
           </a>
 
-		  <a href="https://desafiodocodigo.com.br" className={styles.card}>
-            <h2>Desafio do Código &rarr;</h2>
-            <p>Desafio online com um conjunto de missões que guiam você por ferramentas digitais para aprender programação, matemática e inglês.</p>
-          </a>
+		 
         </div>
       </main>
 
